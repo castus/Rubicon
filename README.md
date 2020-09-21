@@ -76,7 +76,7 @@ class CarSpy: Car {
 
 ```
 
-### Mock
+### Stub
 
 output:
 
